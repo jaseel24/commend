@@ -2,3 +2,4 @@ git clone
 git push
 git pull
 git add -M
+git commit -m
