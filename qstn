@@ -1,0 +1,2 @@
+Password validation simple shell program ,length minimum 8 character,condain both alphabet and number,include both small and capital letters
+If it doesn't support this feature then print weak password 
